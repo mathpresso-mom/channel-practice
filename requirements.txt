@@ -1,2 +1,4 @@
-django==1.11.3
+asgi_redis==1.4.2
 channels==1.1.6
+django==1.11.3
+MySQL-python==1.2.5
